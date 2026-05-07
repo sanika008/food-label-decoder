@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+pillow
+rapidfuzz
+scikit-learn
+pandas
+numpy
