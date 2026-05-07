@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+processed_food_analysis.csv
